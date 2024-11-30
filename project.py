@@ -19,7 +19,7 @@ def download_model(model_url, model_path):
 model_path = 'project.h5'
 
 # URL of the model stored on Google Drive 
-model_url = 'https://drive.google.com/uc?export=download&id=1axUfvqgIYoSNduZQPtz2vCFO3cmBkurK'
+model_url = 'https://drive.google.com/uc?export=download&id=16my_w2qZusZDcVzLHyAARqNsb34xfLo2'
 
 # Download the model if not already downloaded
 download_model(model_url, model_path)
