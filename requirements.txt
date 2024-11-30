@@ -4,3 +4,4 @@ pillow
 numpy
 gdown
 opencv-python-headless
+pillow==9.4.0
